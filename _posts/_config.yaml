@@ -1,0 +1,12 @@
+# Site settings
+title: "Developer Blog"
+description: "Learning, fun, share."
+
+# Deployment URLs
+url: "https://psusam.github.io"
+baseurl: "/blog"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
