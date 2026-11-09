@@ -7,6 +7,6 @@ url: "https://psusam.github.io"
 baseurl: "/blog"
 
 # Build settings
-theme: minima
+theme: jekyll-theme-chirpy
 plugins:
   - jekyll-feed
